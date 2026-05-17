@@ -1,4 +1,4 @@
-# node_exporter-sript-installer
+# node_exporter-script-installer
 un script pour installer node exporter sur sa machine 
 **compatible et testé seulement sur machine Linux amd64**
 
